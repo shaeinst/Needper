@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "221119038309",
+    "project_id": "auth-needper",
+    "storage_bucket": "auth-needper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221119038309:android:8cbe5fcc48a242a662d78c",
+        "android_client_info": {
+          "package_name": "com.needper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221119038309-426j4l1rusq8jg4ivq66873sq9qse8ge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.needper",
+            "certificate_hash": "c234dce6aeb33bb684ed98c938411b8d75795b1a"
+          }
+        },
+        {
+          "client_id": "221119038309-kvo3iad61fpa7hgevn5jrg71cank9b6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH5Px0QR38buSdniwajmn8uDHQPI9eXJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221119038309-kvo3iad61fpa7hgevn5jrg71cank9b6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
